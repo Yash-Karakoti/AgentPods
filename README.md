@@ -5,9 +5,9 @@
 ## 📖 Description
 
 AgentPods is a decentralized platform for creating and monetizing **Intelligent NFTs (iNFTs)** that encapsulate AI agents or models.  
-Users can **mint**, **lease**, and **run AI inference jobs** on-chain while model storage, execution, and availability are handled via the **0G ecosystem**.  
+Users can **mint**, **lease** and **run AI inference jobs** on-chain while model storage, execution and availability are handled via the **0G ecosystem**.  
 
-This enables **secure ownership**, **transparent monetization**, and **censorship-resistant AI services** that are verifiable on-chain.
+This enables **secure ownership**, **transparent monetization** and **censorship-resistant AI services** that are verifiable on-chain.
 
 ---
 
@@ -38,7 +38,7 @@ This enables **secure ownership**, **transparent monetization**, and **censorshi
 
 1. **Mint an AI Agent iNFT** – Upload your AI model to **0G Storage** and store the reference in the NFT metadata.  
 2. **List for Lease** – Allow others to rent and run your AI agent for a fee.  
-3. **Run Inference Jobs** – Renter submits an input, job runs on **0G Compute**, and output is stored in **0G Storage** or **0G DA**.  
+3. **Run Inference Jobs** – Renter submits an input, job runs on **0G Compute** and output is stored in **0G Storage** or **0G DA**.  
 4. **Settle Payments** – Lease smart contract handles usage receipts and payment settlement.  
 5. **Verify & View** – All activity is transparent on the 0G Chain and viewable via explorer.
 
@@ -47,25 +47,25 @@ This enables **secure ownership**, **transparent monetization**, and **censorshi
 ## 🔑 Key Features
 
 - **On-chain AI Ownership** – Securely own AI models as iNFTs.  
-- **AI Leasing Marketplace** – Monetize models via time-based or usage-based leasing.  
+- **AI Leasing Marketplace** – Monetize models via time based or usage based leasing.  
 - **Verifiable Compute** – Jobs executed via 0G Compute are recorded and traceable.  
-- **Decentralized Storage** – Models, datasets, and outputs stored on 0G Storage.  
+- **Decentralized Storage** – Models, datasets and outputs stored on 0G Storage.  
 - **EVM Compatible** – Built on 0G Chain with Solidity smart contracts.
 
 ---
 
-## 💎 Unique Selling Point
+## USP
 
-Unlike centralized AI platforms, AgentPods provides **true digital ownership** of AI models, **on-chain verifiable computation**, and a **permissionless AI marketplace**. This enables AI creators to monetize without intermediaries, while users get provably fair access to AI services.
+Unlike centralized AI platforms, AgentPods provides **true digital ownership** of AI models, **on-chain verifiable computation** and a **permissionless AI marketplace**. This enables AI creators to monetize without intermediaries, while users get provably fair access to AI services.
 
 ---
 
-## 🧰 Tech Stack Used
+## Tech Stack Used :
 
-- **0G Chain** – EVM-compatible blockchain for contracts & transactions  
-- **0G Storage** – Decentralized large-file and model storage  
+- **0G Chain** – EVM compatible blockchain for contracts & transactions  
+- **0G Storage** – Decentralized large file and model storage  
 - **0G Compute** – Distributed compute network for AI inference  
-- **0G Data Availability (DA)** – Scalable storage for high-throughput AI output logs  
+- **0G Data Availability (DA)** – Scalable storage for high throughput AI output logs  
 - **Solidity** – Smart contract development  
 - **Hardhat** – Contract compilation & deployment  
 - **Next.js** – Web frontend  
