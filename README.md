@@ -54,6 +54,26 @@ This enables **secure ownership**, **transparent monetization** and **censorship
 
 ---
 
+##  Why This Project is Required & Problems It Solves ?
+
+AI in Web3 today faces 4 major challenges:
+
+1. **Centralized Model Hosting** – Most AI models are stored and served by centralized providers, creating dependency, censorship risk and single points of failure.
+2. **Lack of True Ownership** – NFTs usually store static images or metadata not functional AI agents that users can actually own, run or improve.
+3. **Opaque Computation** – AI outputs from centralized APIs are unverifiable, making it impossible to confirm whether the claimed model was actually used.
+4. **No Monetization Path for AI Creators** – Independent AI developers have no simple, trustless way to monetize models while retaining full control.
+
+**AgentPods** solves these issues by:
+
+- Turning AI models into **on-chain Intelligent NFTs (iNFTs)** with verifiable storage and execution.
+- Using **0G Storage** for censorship-resistant hosting of models, configs and datasets.
+- Running inference jobs on **0G Compute** and recording proofs in **0G Data Availability (DA)** for auditability.
+- Enabling **permissionless leasing and monetization** through smart contracts on **0G Chain**.
+
+This ensures AI agents are **ownable, rentable, verifiable and censorship resistant** -> a core need for truly decentralized AI ecosystems.
+
+---
+
 ## USP
 
 Unlike centralized AI platforms, AgentPods provides **true digital ownership** of AI models, **on-chain verifiable computation** and a **permissionless AI marketplace**. This enables AI creators to monetize without intermediaries, while users get provably fair access to AI services.
